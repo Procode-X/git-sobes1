@@ -1,0 +1,33 @@
+body{
+  background-image: url("Background.jpg");
+
+}
+
+.container{
+width:520px;
+height:500px;
+margin: 250px auto 0 auto;
+}
+
+input {
+
+  width: 65%;
+  height: 28px;
+  outline: none;
+  padding-left: 10px;
+  border-radius: 26px;
+  background-color: #fff099;
+  border: 3px solid #FF0000;
+}
+
+button {
+
+  width: 16%;
+  height: 33px;
+  outline: none;
+  border-radius: 25px;
+  background-color:green;
+}
+
+
+
